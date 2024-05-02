@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+    background-color: black;
+    color: white;
+}
+
+main{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.banner-texto h1{
+    margin-bottom: 50px;
+}
+
+.botao{
+    background-color: #22D4FD;
+    text-align: center;
+    padding: 10px 30px;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 5px;
+    display: block;
+    width: 190px;
+    margin-bottom: 10px;
+}
+
+.destaque{
+    color: #22D4FD;
+}
+
+.banner{
+    padding-top: 4px;
+    padding-right: 4px;
+    margin: 10px;
+}
+
+.banner-texto{
+    padding: 50px;
+    width: 500px;
+}
+
+
+.banner-texto p{
+    margin-bottom: 50px;
+}
