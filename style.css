@@ -15,6 +15,7 @@ main{
 
 .banner-texto h1{
     margin-bottom: 50px;
+
 }
 
 .botao{
@@ -38,6 +39,8 @@ main{
     padding-top: 4px;
     padding-right: 4px;
     margin: 10px;
+    display: flex;
+    align-items: center;
 }
 
 .banner-texto{
@@ -48,4 +51,9 @@ main{
 
 .banner-texto p{
     margin-bottom: 50px;
+}
+
+.links{
+    display:flex;
+    justify-content: space-between;
 }
